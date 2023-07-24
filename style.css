@@ -1,0 +1,111 @@
+.background{
+    background-color: #4A55A2;
+    height: 500px;
+    display: relative;
+}
+
+h1{
+    font-family: 'Caveat', cursive;
+    font-family: 'Libre Baskerville', serif;
+    font-family: 'Lobster', cursive;
+    color: #7895CB;
+    font-size: 3rem;
+    text-align: center;
+    padding: 100px;
+    
+}
+
+h2{
+    font-family: 'Caveat', cursive;
+    font-family: 'Libre Baskerville', serif;
+    font-family: 'Lobster', cursive;
+    font-family: 'Montserrat', sans-serif;
+    text-align: center;
+    color: #A0BFE0;
+   
+}
+
+.middle-container{
+    background-color: #C5DFF8;
+    height: 300px;
+    display: block;
+    padding: 50px;
+    margin-bottom: 50px;
+}
+
+.profile-image{
+    border-radius: 50%;
+}
+.profile{
+    text-align: center;
+}
+intro{
+    font-family: 'Caveat', cursive;
+    font-family: 'Libre Baskerville', serif;
+    font-family: 'Lobster', cursive;
+    font-family: 'Montserrat', sans-serif;
+    width: 30%;
+    margin: auto;
+    line-height: 2;
+}
+
+.skills{
+    height: 400px;
+    background-color:aliceblue;
+    display: block;
+    padding: 50px;
+
+}
+.typing{
+    float: left;
+    margin: 10px;
+}
+
+h3{
+    color: #A0BFE0;
+    font-size: 1rem;
+}
+p{
+    line-height: 2;
+    font-family: 'Caveat', cursive;
+    font-family: 'Libre Baskerville', serif;
+    font-family: 'Lobster', cursive;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 15px;   
+}
+
+.contact{
+    height: 300px;
+    padding-top: 20px;
+    background-color: whitesmoke;
+    display: block;
+}
+
+.info{
+    text-align: center;
+}
+
+.btn{
+    background-color: #4A55A2;
+    border-radius: 8px;
+    border: #C5DFF8 solid 2px;
+    color: white;
+    
+}
+
+.last{
+    background-color: #4A55A2;
+    height: 100px;
+}
+
+a{
+    color: white;
+}
+
+#end{
+    text-align: center;
+    padding: 30px;
+}
+footer{
+    color: #C5DFF8;
+}
